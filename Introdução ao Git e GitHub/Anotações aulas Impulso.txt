@@ -2,7 +2,22 @@ Impulso Javascript Evolution
 
 links para download
 https://git-scm.com/downloads
+--------------------------------------------------------------------------------------------------------------
+Comandos básicos:
+Criar o repositório no Github
+Copiar o link html no github
+no Gitbash na pasta main dê:
+git clone http:....
 
+Para adicionar arquivos no local:
+
+Git add .
+
+Git commit -m "anotação"
+
+git push origin main         // envia tudo do main para o github
+
+--------------------------------------------------------------------------------------------------------------
 Gitbash
 
 O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git. Bash é acrônico para "Bourne Again Shell". Shells são aplicativos terminais usados como interface em sistemas operacionais por meio de comandos gravados.
